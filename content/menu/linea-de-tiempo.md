@@ -7,7 +7,7 @@ title = 'Linea De Tiempo'
 # Actividades donde he participado.
 
 ## 2026 
-*
+*  AWS Student Community Day: [Cavernícolas, dinosaurios y código. Construye un videojuego usando Kiro](https://github.com/sr-magnolia/building-games-with-kiro) 
 
 ## 2025
 * Road to reInvent: Yellow team
